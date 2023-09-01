@@ -1,2 +1,2 @@
-# skills-intro-to-github
+# lmorris3 intro
 first public repo
